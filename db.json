@@ -1,0 +1,40 @@
+{
+
+"items": [{
+
+"name": "widget 1",
+
+"price": {
+
+"type": "USD",
+
+"value": 10.1
+
+},
+
+"quantity": 2
+
+},
+
+{
+
+"name": "widget 2",
+
+"price": {
+
+"type": "USD",
+
+"value": 4.2
+
+},
+
+"quantity": 6
+
+}
+],
+
+"order_total": 45.4,
+
+"discount": 0
+
+}
